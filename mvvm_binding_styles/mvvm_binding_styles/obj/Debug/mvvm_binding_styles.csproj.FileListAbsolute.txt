@@ -1,0 +1,15 @@
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\bin\Debug\mvvm_binding_styles.exe.config
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\bin\Debug\mvvm_binding_styles.exe
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\bin\Debug\mvvm_binding_styles.pdb
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\App.g.cs
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles_MarkupCompile.cache
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles_MarkupCompile.lref
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles.g.resources
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles.Properties.Resources.resources
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles.csproj.GenerateResource.Cache
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles.exe
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\mvvm_binding_styles.pdb
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\View\MainWindow.g.cs
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\View\MainWindow.baml
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\echernenko\documents\visual studio 2015\Projects\mvvm_binding_styles\mvvm_binding_styles\obj\Debug\Style\DefaultStyle.baml
